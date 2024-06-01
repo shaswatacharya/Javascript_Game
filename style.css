@@ -1,0 +1,11 @@
+body {
+	text-align: center;
+    background: rgb(238,174,202);
+    background: linear-gradient(90deg, rgba(238,174,202,1) 0%, rgba(148,187,233,0.6558998599439776) 100%);
+}
+
+.bottom{
+    text-align: center;
+    font-size: 10px;
+    
+}
